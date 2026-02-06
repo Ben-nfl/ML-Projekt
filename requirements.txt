@@ -1,0 +1,25 @@
+# Wine Quality Prediction - Required Packages
+
+# Core Data Science
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualisierung
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Streamlit App
+streamlit>=1.25.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.20.0
+
+# Optional: Fortgeschrittene Features
+# xgboost>=1.7.0  # Für XGBoost Modelle
+# shap>=0.42.0    # Für SHAP Values (Feature Importance)
